@@ -118,3 +118,14 @@ The program loads the dataset, performs analysis, trains the Linear Regression m
 
 B.Tech CSE
 Gurugram University
+
+## 📊 Visualizations
+
+### Final Grade Distribution
+![Final Grade Distribution](grade_distribution.png)
+
+### Study Time vs Final Grade
+![Study Time vs Final Grade](studytime_vs_grade.png)
+
+### Actual vs Predicted Final Grades
+![Actual vs Predicted Final Grades](actual_vs_predicted.png)
